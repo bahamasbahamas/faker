@@ -9,13 +9,16 @@ go get 'github.com/bahamasbahamas/faker'
 #### Docs
 https://github.com/dmgk/faker
 
-#### ++
+#### Whats new?
 * you can set the language to English or German
-* you can create first names with gender 
+
+      faker.SetLanguage("de") //sets language to German
+      faker.SetLanguage("en") //sets language to English
+
+* you can create first names with gender
+ 
+      faker.Name().FirstNameFemale() //Lola
+      faker.Name().FirstNameMale()  //Sven
+
 * I deleted the files in /yaml and the cmd/generator.go 
 
-#### Whats new?
-* faker.Name().FirstNameFemale() //Lola
-* faker.Name().FirstNameMale()  //Sven
-* faker.SetLanguage("de") //sets language to German
-* faker.SetLanguage("en") //sets language to English
