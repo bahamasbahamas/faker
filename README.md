@@ -9,7 +9,7 @@ go get 'github.com/bahamasbahamas/faker'
 #### Docs
 https://github.com/dmgk/faker
 
-#### Whats new?
+#### What's new?
 You can set the language to English or German
 
       faker.SetLanguage("de") //sets language to German
