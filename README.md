@@ -3,7 +3,7 @@
 
 this is a fork of https://github.com/dmgk/faker. 
 
-#### to install
+#### How to install
 go get 'github.com/bahamasbahamas/faker'
 
 #### Docs
