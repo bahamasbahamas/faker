@@ -16,7 +16,9 @@ https://github.com/dmgk/faker
 
 #### Whats new?
 faker.Name().FirstNameFemale() //Lola
+
 faker.Name().FirstNameMale()  //Sven
 
 faker.SetLanguage("de") //sets language to German
+
 faker.SetLanguage("en") //sets language to English
